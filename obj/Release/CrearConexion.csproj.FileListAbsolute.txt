@@ -1,0 +1,9 @@
+C:\Users\cfernandez\Documents\CrearConexion\bin\Release\CrearConexion.exe.config
+C:\Users\cfernandez\Documents\CrearConexion\bin\Release\CrearConexion.exe
+C:\Users\cfernandez\Documents\CrearConexion\bin\Release\CrearConexion.pdb
+C:\Users\cfernandez\Documents\CrearConexion\obj\Release\CrearConexion.csprojAssemblyReference.cache
+C:\Users\cfernandez\Documents\CrearConexion\obj\Release\CrearConexion.csproj.CoreCompileInputs.cache
+C:\Users\cfernandez\Documents\CrearConexion\obj\Release\CrearConexion.exe
+C:\Users\cfernandez\Documents\CrearConexion\obj\Release\CrearConexion.pdb
+C:\Users\cfernandez\Documents\CrearConexion\bin\Release\Newtonsoft.Json.dll
+C:\Users\cfernandez\Documents\CrearConexion\obj\Release\CrearConexion.csproj.CopyComplete
